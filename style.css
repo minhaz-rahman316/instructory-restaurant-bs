@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+img{
+  max-width: 100%;
+}
+
+footer{
+   padding:20px 0;
+   background-color: crimson;
+   width: 100%;
+   height: auto;
+   color: #fff;
+   text-align: center;
+ 
+ }
+
+
+.nav-link{
+  transition: all 0.2s;
+}
+
+.nav-link:hover{
+  text-decoration: underline white;
+
+}
